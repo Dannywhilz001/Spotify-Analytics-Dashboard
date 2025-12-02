@@ -203,7 +203,7 @@ Oladotun Olawale
 
 [LinkdIn](http://www.linkedin.com/in/oladotun-olawale)
 
-Project Link: [https://github.com/Dannywhilz001/spotify-analytics-dashboard](https://github.com/Dannywhilz001/spotify-analytics-dashboard)
+[Project Link](https://github.com/Dannywhilz001/spotify-analytics-dashboard)
 
 ---
 
