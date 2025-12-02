@@ -2,7 +2,7 @@
 
 A comprehensive data analytics project leveraging Power BI and a Spotify dataset to visualize and analyze music streaming patterns, artist performance, and audio characteristics.
 
-![Dashboard Preview](https://ibb.co/KzXxySyk)
+[Dashboard Preview](https://ibb.co/KzXxySyk)
 
 ### Overview
 
